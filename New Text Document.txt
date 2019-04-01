@@ -1,0 +1,7 @@
+download node js
+download mongo db from its website 
+use mongoDB compass management tool default or 
+use mongorobo for other
+npm init
+npm i express mongoose body-parser --save 
+npm i nodemon(to update ) 
